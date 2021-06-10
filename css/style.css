@@ -533,6 +533,10 @@ nav a:hover {
   .footer-right .btn {
     margin-bottom: 1em;
   }
+
+  .footer-right p {
+    font-size: 1rem;
+  }
   
   
 
